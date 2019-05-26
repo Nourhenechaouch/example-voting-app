@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Example Voting App
 =========
 
@@ -94,3 +95,6 @@ Note
 ----
 
 The voting application only accepts one vote per client. It does not register votes if a vote has already been submitted from a client.
+=======
+# example-voting-app
+>>>>>>> 77bac6c152781951df9998ed95843a6c06100e45
